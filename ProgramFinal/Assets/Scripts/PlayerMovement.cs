@@ -4,12 +4,29 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-[RequireComponent(typeof(Rigidbody2D))]
+[RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections))]
 public class PlayerMovement : MonoBehaviour
 {
     public float walkSpeed = 5f;
+    private float jumpImpulse = 5f;
     Vector2 moveInput;
+    TouchingDirections touchingDirections;
 
+    public float CurrentMoveSpeed {  get
+        {
+            if(IsMoving && !touchingDirections.IsOnWall)
+            {
+                return walkSpeed;
+            }
+            else
+            {
+                // idle speed is 0
+                return 0;
+            }
+        } 
+    }
+
+    [SerializeField]
     private bool _isMoving = false;
     public bool IsMoving
     {
@@ -49,23 +66,15 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-    }
-    // Start is called before the first frame update
-    void Start()
-    {
         animator = GetComponent<Animator>();
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        //var inputX = Input.GetAxisRaw("Horizontal");
-        //animator.SetBool("IsWalking", inputX != 0);
+        touchingDirections = GetComponent<TouchingDirections>();
     }
 
     private void FixedUpdate()
     {
         rb.velocity = new Vector2(moveInput.x * walkSpeed, rb.velocity.y);
+
+        animator.SetFloat(AnimationStrings.yVelocity, rb.velocity.y);
     }
     public void OnMove(InputAction.CallbackContext context)
     {
@@ -87,6 +96,16 @@ public class PlayerMovement : MonoBehaviour
         {
             // Face left
             IsFacingRight = false;
+        }
+    }
+
+    public void OnJump(InputAction.CallbackContext context)
+    {
+        // TODO check if alive as well
+        if(context.started && touchingDirections.IsGrounded)
+        {
+            animator.SetTrigger(AnimationStrings.jump);
+            rb.velocity = new Vector2(rb.velocity.x, jumpImpulse);
         }
     }
 }
