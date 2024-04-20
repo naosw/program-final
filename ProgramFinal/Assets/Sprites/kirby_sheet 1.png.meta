@@ -1,0 +1,6327 @@
+fileFormatVersion: 2
+guid: 32bff03632ee17043be6d18dd66ca1c1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kirby_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 735
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ea6777b91648448be8a7df25746d5
+      internalID: 2086354447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 735
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3664d7af51c56c94c97e14dd38cc5006
+      internalID: -1127102467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 731
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1254f9a6b9f4843b2ac38da05b8386
+      internalID: -1339932925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 731
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0940fee9565f93c46a85ea8681bd793d
+      internalID: -1220232909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 731
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935ed70d9fb17f442a19374a7210cea8
+      internalID: -215110703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 731
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181ed13cd7337a54dadef2b79d8fec3e
+      internalID: 921448992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 735
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885d54a0bed03c4fa6edba151b3fbb4
+      internalID: 2001380084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 735
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42b136b93342bc43b43d744e5ebddff
+      internalID: 188108819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 735
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289ff23f5028fc54391489a956c521d1
+      internalID: 250301285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 735
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda49298766c1f34aa7a5a800c3fec66
+      internalID: 414553334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 735
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f9f0410952304f84afac239e38f08
+      internalID: 83452003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 610
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6c25c2cce22148a615bfe6f14684b
+      internalID: 365988469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 705
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c79a98a5b29d6841bce9309688a6a23
+      internalID: 675911419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 705
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091d0cc7a0655240a61719a65a479f2
+      internalID: -1828395828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 702
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2f069a4d49254bb3950164860e7fc
+      internalID: -1769485308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 702
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5d64dca1488046878d9273a4d5053
+      internalID: 1259308230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 702
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d73350d431914ba5e928d9b5f7745
+      internalID: 1577966887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 702
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e9325642e3de4789925ce6d3c34c2
+      internalID: 1872556374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 705
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfab499e09e51334c904a41fe5578b49
+      internalID: -280462389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 705
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eae32e2a184f448aa335d534c12f01
+      internalID: -93170866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 705
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8191f922f7d7a548b6f7057b101d660
+      internalID: 328703175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 672
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0012a08193e04ee49b9cd2681fc715a3
+      internalID: -734146595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 672
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad421f12486ef44f92344661d8a0530
+      internalID: -552344204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 672
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03457958ae4fa404cb78690fa1a491ca
+      internalID: 574615436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 672
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58374dab39cfa6e419a8560cbbdbf823
+      internalID: 784934596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 672
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c886dc441f36cf4fb29a0ea07c8f6ec
+      internalID: 1181669071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 672
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c087e6373d9c2643b8221bdc2e938d2
+      internalID: 1157733644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa614d7aa05575409931375fb756e8d
+      internalID: 1624699556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 672
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8efb31c1707845a2f19e4b415f443
+      internalID: -424593215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326e3370e64414419c9f664d265c9e2
+      internalID: -245276791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 672
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e7b7a7a5eac54c8e708670b6b88b3
+      internalID: -1561222541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 672
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048146029483bae4b93a8bfdd4ec99da
+      internalID: 1248263131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 672
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f55d70e21d41b2489763246496ebd13
+      internalID: -1425292358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 642
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b4fa74ebf5c1f47a7ac3e9b883ae88
+      internalID: -1554574396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 642
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3167a25562233b4b8a578d363987bf4
+      internalID: -1350506061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 642
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e38c525b9bf20844801bdf4096b3313
+      internalID: -1231571550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 642
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a210dab805c7440a2e75185d162916
+      internalID: 875070186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 642
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b160024069d9bde4ba0312ce32160f60
+      internalID: -831644379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 642
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc140b668979f49b9e0653f6f5e7c8
+      internalID: 1607764864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 642
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6e599e24d908e47bb65e939db3df3c
+      internalID: -1857104811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 642
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b0c9a956e0f1446bce5829d76c67f1
+      internalID: -1656353381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 642
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00173cf2d7cb53e44b2ef06d963eeef9
+      internalID: -1364588960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 605
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadcd4965b5da50488390de2cd9e3fbc
+      internalID: -319387745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 605
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c344e3db5d5d4946a934f9de98dae1d
+      internalID: 745061051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 605
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c31b7d856f61fc4b8af6cc766f74a02
+      internalID: -760906897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 604
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb2d5521b7d8c4080fe54ba1eda8cd
+      internalID: 9097989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 604
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02764607eeaf741ba044496e2723f5
+      internalID: -1302824713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 598
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9838ca2284742d43aec3594ebbe5ab1
+      internalID: -1709535089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 598
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccb12cbd5033e340b7da3ccdd77c72e
+      internalID: -1558895804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 603
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b7f75c90ccb8489a26fd89f295ec6
+      internalID: 1607665392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 603
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34e8427452ec9f4ba12c119860374df
+      internalID: 395376732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 603
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c555ad5e2679843b7c7aedb9013e94
+      internalID: 1239467214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 603
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef4ac1119add1548b7a8b8ab9f16a86
+      internalID: 1378514943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 594
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6425b6addc519ec43bcbda8f66553a8b
+      internalID: -176269022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 559
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5d6816b408760418c39e8732642f50
+      internalID: -192892205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 559
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd5687fe659c054590f79d2300c2330
+      internalID: -535737423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 559
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011b59b06fa3dd741935774156da7258
+      internalID: -436365418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 559
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1adc5dc6e731a74997de4a9677b08e7
+      internalID: 203883561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 559
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a3c95d4051a0442a64489247d7da64
+      internalID: -409702057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 559
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6275d3ba48ef54a8367e36e2643c6a
+      internalID: 522728459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 559
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee96d61fcb8d0214caa26e76ed46ca9d
+      internalID: 1632498792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 557
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57332b3d1c93ec24d89ed46e912356d2
+      internalID: -1611875392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 554
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47943bf791b8f2746b1270b42b1260a4
+      internalID: 2024007953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 549
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e19644406b5d740971f529ebcb6ecc
+      internalID: -1149544469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 548
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbf24ae461bc34e959e88f7bcd5818
+      internalID: -61657994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 552
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e6f13c1786084dbd2d7249fb43958
+      internalID: 917779666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 558
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad356b6920bf99549814d7254f716de5
+      internalID: 1628817137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 559
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fc55467bef73a4eb782e88b9627f31
+      internalID: 2105680501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 559
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ef56632631ecb4a885ad43b28e0569
+      internalID: 526408150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 559
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577ab97f504acbc4a8a155ef2907d530
+      internalID: -1977515260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 559
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220f1c0b08cb64d4a8e600f1063a387f
+      internalID: 1334300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 560
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b2b07c3c8a5464e8240038b8c84545
+      internalID: -1860189273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 512
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e193752e4d4efd4391447e83a5db225
+      internalID: 1890321562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 512
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fb91a45d6365643be9b040a1ebf9dd
+      internalID: -1909816167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 512
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb6b6a2f4ced554994d4e07beaf35e6
+      internalID: -548869408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 512
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440fef6764c7f743b4f852d5ef9c3a5
+      internalID: 848791578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 512
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6927130546048047948db694fb015d1
+      internalID: 744314632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 512
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c72b000615f32745b923f274d0d2408
+      internalID: 716755922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 512
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080da955e3754a42b193de988723e5a
+      internalID: -39101894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 512
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3308b7337878d24eafc593492a552f0
+      internalID: 853771939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 512
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862ddf99785ae4f43acdffe8c8db34ab
+      internalID: 1623931564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 512
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33f857d7ddbf214ea41bf9cdf43ab29
+      internalID: 1214282895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 512
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69c02fec7b89c458d424cc295b394d
+      internalID: -17243863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 477
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98021fae9a443444db5eb3d78947e8d1
+      internalID: -844041147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 477
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f6b971b1be5e0498deb4cfd9ffc75d
+      internalID: -374833056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 477
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45a9dc0dec17b48bbff84b7ad0063d
+      internalID: -716243017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 477
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231b729166461845bfab0152ae05dd0
+      internalID: 1827241026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 477
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4135a00f57d0334d89d8efb4e5ca334
+      internalID: 138880733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 447
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e619879b20a6e45848cbff8fd5d247
+      internalID: 1425855825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 444
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e680d82a4048243b9ce266d8d0689e
+      internalID: 2011189352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 446
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9e5548128f4542a7470461bc41854
+      internalID: 891350470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 449
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8385540cc4f834692591c481576fe3
+      internalID: 1321033691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 452
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4fa137230c314cb218f0f2fe5de72
+      internalID: 946307833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 449
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320366416ffd9d3409e6b8ef0d3e225f
+      internalID: -773253287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 446
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8484128b87e68e5418220f7347d1e257
+      internalID: 1136952873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 444
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc8a0892d0c73d43aeecf8956476fa4
+      internalID: 131630604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 447
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64669914169706948aa7610a99d68b36
+      internalID: -5057130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 444
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd13394096e4cfa4f8f6dd0a45f6b4c0
+      internalID: -1045472414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 446
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e883c569205b124598cf20cbd1a4abc
+      internalID: 1649218755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 449
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c365ba6381fb2d45baa7f0128af839c
+      internalID: 851935144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 452
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09108a81dcd3fdf4a9420fd41b545ad3
+      internalID: -85016138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 449
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc30f77a204370c4dbadb3bdefe107a4
+      internalID: -1742320754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 446
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5db095912d6f4594196c5996d2577
+      internalID: -1130929137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 444
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0518f19d2a36147b72f1a3781a34de
+      internalID: -2069450755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 405
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c02c62e08530414586eb440491ccb24
+      internalID: -531333895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d300590ec02d94989ada8f247b3977
+      internalID: 2091723538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1f475e4f3f5a4ea50a20536de3a88
+      internalID: 388439677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 429
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928548d881899444fa2d267a018c448e
+      internalID: -270474146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663d3d0d53f09b844ac421399d1e4110
+      internalID: -1422350234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 429
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edb2978f1262d54cbd7bf1d82fd0794
+      internalID: 1580765946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff260c9d29923744843a9c91c4594a7
+      internalID: -1573896899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 429
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fe05f0a3c295a42b5c0653e50e2191
+      internalID: 2134502868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b488522029fb14b8368447a87dafe1
+      internalID: -1636525604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 430
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56bf9d58c363ea40ae9330dd39a021d
+      internalID: 752766391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6162cd9e6f0775344960f77003bfd904
+      internalID: -141057892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 431
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f320fb36851d3d428723b198ab3370f
+      internalID: -1211205027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368bd7b84f8d71140a0a93bf9824d929
+      internalID: 1828124802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 431
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ec7379d8fe834e9bb98f90bf07d2c
+      internalID: -328125223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4a6d7321724b14c9e7b0f748a2c5f0
+      internalID: -414753924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 431
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d850ac9cc3a7147ad7bc59cfa310ae
+      internalID: 2034284335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 405
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfed23f8c24cf7b42beb4add97707104
+      internalID: 257598494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6deabf30df5ed449b5fb2a7130be15b
+      internalID: -1356109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 405
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd675473b4fe00479816622e595f82b
+      internalID: -327422964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7fea9bec78e2408d187c53402e7c7
+      internalID: 1052153342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 405
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a9418db820fc149818aceec1c161e4
+      internalID: 1066961697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 428
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9149867279b60d74fa00928ed501732e
+      internalID: 112278044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 405
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26d24c596ee52e41bfa07ea7913f413
+      internalID: 1677346724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 405
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe80d9a25d4f801419fd11202d5da00b
+      internalID: -681560335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 405
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fbfb25c5ed6ca4f909cf206b495425
+      internalID: 1885732066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 405
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ed8ef4ad8fbdf4b80b0f7dfe87a3ec
+      internalID: 149937644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a0642c5e0fd6429f747799501f550
+      internalID: -59364531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c305c13d252e14180614474c6fceb4
+      internalID: 1067978903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 405
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3017687f72f60004c8098c8f49de0100
+      internalID: -281099512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 405
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6b0f505ae665940aabab93f7b6c267
+      internalID: -545995649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 405
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6fc3c684ef1d043bad33bd138361e5
+      internalID: -1161175663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 405
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8e9a10810590949b99b0e1653aa097
+      internalID: -38985657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 405
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a19f4a966a26249b853352f5411ad7
+      internalID: 33164291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 358
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f630cf6d30d441bc8c3ae77e4e809
+      internalID: 2046508001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 358
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a62b9c941954647ac67d63ce9abc7e
+      internalID: 654079355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 330
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8491182197eb4086308e704ddb232
+      internalID: -873455862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 330
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d50b7701433ba49bdf87c72ead36be
+      internalID: 1577343612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 330
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb10a885c4c58449e580768e441013
+      internalID: -1093268885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 330
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e09766141f9b4faff2f22ee025b21
+      internalID: -1650743303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 330
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1beeb17f5a5447b46177f0db871f5
+      internalID: -1532996765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 330
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098b3f4a932b3ad4ebca73aa867189cb
+      internalID: 1522679687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 330
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faded05a08ebf0c4e8bd9af2400d4133
+      internalID: 388642161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 330
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aabe5b3b1044a74c80c3f3027fbdfa9
+      internalID: 1329082021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 330
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d896a0b4487bfa4c8d070995156fa65
+      internalID: 1359616748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 330
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5614186b0e3934eb5773349c3a8343
+      internalID: 24230168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 306
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a2b55b3a118e4e896f8ca39f634e0
+      internalID: -177838863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 307
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b249c7e2525ab479c69509ce52a2e3
+      internalID: -1889583878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 308
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45980af0d1ea2e345829edc18035798d
+      internalID: 2109533320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 307
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a090162183c10354186b87af8fa116fd
+      internalID: -2013621201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 251
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bf8c4247b66ed4f9f9151034ea0855
+      internalID: -1251256314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 251
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20230d335a4ae86429308fecdf4845d4
+      internalID: 473832272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 264
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a39c3ab71abe545bac4fd760387bce
+      internalID: 437842236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 272
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99809159fbd054249973221162bfa2b0
+      internalID: -1594858103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 282
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746178344161d6643b35cb0aaa72e321
+      internalID: 1158005146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 251
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49bfc8f8b3a53a4385c02f8db61d35a
+      internalID: 428716224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 251
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f535f7c1519494b90531410160ee15
+      internalID: -1066394474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 251
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0caa3c1964b344bcd3a322fb841b1
+      internalID: 968805478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 251
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9075e579f5a4d18489accbc06ca08d10
+      internalID: -1613630924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 251
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1cfff8e58470244a7daacf399a5dfb
+      internalID: -1003369313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 251
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43334223153ab41a32bb0a5b854ceb
+      internalID: 577692737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 251
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63b0bc1a649dae4398f0cbcf80b33a5
+      internalID: -84449823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 251
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b1a0235492744c8887bef209af186
+      internalID: 270611811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 200
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb7b82d92703974d96018b06b7b570d
+      internalID: 468472512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 205
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a4a2290864ff544ae47be8caf5348c
+      internalID: -1690924552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 200
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4fa5d0839ab4546b5897ab57f07118
+      internalID: -1260608225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 209
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b694f28e74b854c92bb7c040336053
+      internalID: -1360538971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 200
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b591642567134a8de613ac4cc557c
+      internalID: -476160324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 203
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0da792f6f87ca74490ffbf342453dba
+      internalID: -676174785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 210
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86236c80fe1ce5644bec990ad1d7015e
+      internalID: -1044520546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 200
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c39ecb6c4b7c143aae6c0e16aa24f7
+      internalID: -1200970451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 202
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852dc73e396d524d8d89ee17ca9e5e9
+      internalID: -339418620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 200
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73281f41f8b26f54584fb349ddcfb35e
+      internalID: -1587812640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 200
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3934c0eae973df042bd0dee9e147e240
+      internalID: -1232049755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 201
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437058c817e016f469c51392a8b7a957
+      internalID: 1888502801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 200
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533efe304b901e948851d3165e7aedb2
+      internalID: -1160404656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 203
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819c7c9c3e6b134a959ac2c97c88de7
+      internalID: 879126923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 168
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d840ce795342d224a9dd176eb340bb8a
+      internalID: -1037162299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 168
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbc5583c1b0b644d9baf27ac68af60d
+      internalID: -1344270816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 169
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644487f44a342614f8f44a2475b56f07
+      internalID: -344359906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 166
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe2b23d68ea6a242b8d5840ae7cef2e
+      internalID: -2056646924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 173
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c9c6f7dadb7224fb28e8301177c9c3
+      internalID: 177988388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdd9b8f51a1eca47a287558d1159828
+      internalID: -484483486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 164
+        width: 69
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07d8e8839909e4d80364df97e2c547
+      internalID: 1516800816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 168
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82c07593b328347b019012cf62ad7c
+      internalID: 469277463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 160
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c59091383a9cb439e2daa6b12f76a5
+      internalID: -2027812828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 160
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e0437191f7a994da0dc8d9a264285a
+      internalID: -1777393726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199eb34271cb2864db3a05c117b74ae1
+      internalID: 591253250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 161
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b0568096795da4186414ddfb52973b
+      internalID: -493933586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 154
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792ef3a0816613847aa354f025032b45
+      internalID: -1820919902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 113
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd69cb2b0805c8845850f11c17a6ac9a
+      internalID: -1346053637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 122
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc33a6ceb714244cbebfb6f5a7af226
+      internalID: 152028181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 107
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35290f32249989f47a4a7b8c9b2f476d
+      internalID: 1923445223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 122
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a2fa98fa408447b59e3e494dd7fd7
+      internalID: 1629885550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 106
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc46c9e861d2d65459b5f66cff2059b4
+      internalID: -1610074577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d62ecb2262a854abd5616e8d35a707
+      internalID: 952767453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 110
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012ad64e22523184fb86e920f8f2ea0f
+      internalID: -716508546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 103
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acea2c29b39e7d64d971c6197ae373f9
+      internalID: -1765178753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 122
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d4892ed01d4b249a2ccd0e90ef6aaf
+      internalID: 1773030627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 122
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fd84ee20e353a49a306ade8b866e94
+      internalID: -72597936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 98
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7090e528ff9141044be83d35511a5189
+      internalID: 1475814133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 96
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140fb282fa5907e4c8a38d38937fa8ba
+      internalID: -266941497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 99
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839aa5f27349e9948a15dfdcfe21e8b2
+      internalID: 1159473120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 89
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c3dad336c65b4385405d9805aa9a3
+      internalID: -1354167413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f9533666369f446b5b0c706307b357
+      internalID: 1087036046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26617da31853d4f40957feaca0aa6bb8
+      internalID: -99992087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 63
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0db0f837fe288842bb7ce4804a9afc0
+      internalID: 806097785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1
+        width: 304
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2172f01e839955542b6961e06325dbb1
+      internalID: 1607989518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6d83371810a3c4eaee5718f1f7cf4e
+      internalID: 576523335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 25
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5369122fde00463478e02ee499433575
+      internalID: 12299446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -12, y: -310}
+      - {x: -12, y: -385}
+      - {x: 296, y: -385}
+      - {x: 296, y: -310}
+    - - {x: -177, y: -336}
+      - {x: -199, y: -336}
+      - {x: -200, y: -339}
+      - {x: -200, y: -360}
+      - {x: -198, y: -362}
+      - {x: -174, y: -362}
+      - {x: -174, y: -337}
+    - - {x: -267, y: -334}
+      - {x: -272, y: -337}
+      - {x: -272, y: -347}
+      - {x: -256, y: -356}
+      - {x: -241, y: -356}
+      - {x: -236, y: -349}
+      - {x: -236, y: -342}
+      - {x: -244, y: -334}
+    - - {x: -278, y: -298}
+      - {x: -302, y: -298}
+      - {x: -302, y: -317}
+      - {x: -297, y: -324}
+      - {x: -276, y: -324}
+      - {x: -272, y: -322}
+      - {x: -272, y: -307}
+      - {x: -273, y: -304}
+    - - {x: -233, y: -298}
+      - {x: -235, y: -308}
+      - {x: -235, y: -317}
+      - {x: -230, y: -324}
+      - {x: -205, y: -324}
+      - {x: -205, y: -299}
+      - {x: -210, y: -298}
+    - - {x: -173, y: -298}
+      - {x: -173, y: -317}
+      - {x: -170, y: -324}
+      - {x: -143, y: -324}
+      - {x: -143, y: -305}
+      - {x: -147, y: -298}
+    - - {x: 183, y: -266}
+      - {x: 180, y: -270}
+      - {x: 180, y: -289}
+      - {x: 188, y: -298}
+      - {x: 221, y: -298}
+      - {x: 221, y: -270}
+      - {x: 208, y: -266}
+    - - {x: 0, y: -235}
+      - {x: -26, y: -235}
+      - {x: -26, y: -267}
+      - {x: 5, y: -283}
+      - {x: 25, y: -291}
+      - {x: 40, y: -291}
+      - {x: 40, y: -273}
+      - {x: 37, y: -266}
+    - - {x: -61, y: -263}
+      - {x: -61, y: -289}
+      - {x: -27, y: -289}
+      - {x: -27, y: -263}
+    - - {x: 96, y: -233}
+      - {x: 96, y: -266}
+      - {x: 127, y: -288}
+      - {x: 153, y: -288}
+      - {x: 153, y: -273}
+      - {x: 142, y: -256}
+      - {x: 119, y: -233}
+    - - {x: 52, y: -233}
+      - {x: 49, y: -233}
+      - {x: 46, y: -236}
+      - {x: 42, y: -246}
+      - {x: 41, y: -257}
+      - {x: 41, y: -263}
+      - {x: 43, y: -266}
+      - {x: 77, y: -284}
+      - {x: 95, y: -284}
+      - {x: 95, y: -263}
+      - {x: 62, y: -236}
+    - - {x: -127, y: -260}
+      - {x: -131, y: -261}
+      - {x: -136, y: -265}
+      - {x: -136, y: -281}
+      - {x: -102, y: -281}
+      - {x: -100, y: -279}
+      - {x: -100, y: -265}
+      - {x: -102, y: -260}
+    - - {x: -239, y: -244}
+      - {x: -239, y: -268}
+      - {x: -214, y: -280}
+      - {x: -172, y: -280}
+      - {x: -172, y: -260}
+      - {x: -173, y: -254}
+      - {x: -218, y: -233}
+      - {x: -234, y: -233}
+      - {x: -236, y: -234}
+    - - {x: 20, y: -271}
+      - {x: 23, y: -274}
+      - {x: 22, y: -273}
+      - {x: 19, y: -273}
+      - {x: 18, y: -275}
+      - {x: 20, y: -274}
+    - - {x: -259, y: -250}
+      - {x: -286, y: -233}
+      - {x: -301, y: -233}
+      - {x: -302, y: -240}
+      - {x: -302, y: -266}
+      - {x: -300, y: -267}
+      - {x: -264, y: -274}
+      - {x: -246, y: -274}
+      - {x: -240, y: -270}
+      - {x: -240, y: -259}
+    - - {x: -97, y: -235}
+      - {x: -99, y: -246}
+      - {x: -99, y: -271}
+      - {x: -59, y: -271}
+      - {x: -59, y: -255}
+      - {x: -68, y: -235}
+    - - {x: -170, y: -233}
+      - {x: -171, y: -239}
+      - {x: -171, y: -265}
+      - {x: -143, y: -265}
+      - {x: -139, y: -258}
+      - {x: -139, y: -243}
+      - {x: -147, y: -233}
+    - - {x: 169, y: -233}
+      - {x: 160, y: -233}
+      - {x: 154, y: -240}
+      - {x: 154, y: -265}
+      - {x: 182, y: -265}
+      - {x: 186, y: -260}
+      - {x: 186, y: -244}
+      - {x: 176, y: -235}
+    - - {x: 202, y: -207}
+      - {x: 202, y: -231}
+      - {x: 203, y: -233}
+      - {x: 228, y: -233}
+      - {x: 228, y: -207}
+    - - {x: 39, y: -194}
+      - {x: 35, y: -204}
+      - {x: 35, y: -224}
+      - {x: 39, y: -227}
+      - {x: 77, y: -227}
+      - {x: 77, y: -194}
+    - - {x: 78, y: -189}
+      - {x: 78, y: -223}
+      - {x: 87, y: -227}
+      - {x: 115, y: -227}
+      - {x: 120, y: -223}
+      - {x: 120, y: -202}
+      - {x: 101, y: -189}
+    - - {x: 135, y: -194}
+      - {x: 128, y: -201}
+      - {x: 125, y: -212}
+      - {x: 125, y: -227}
+      - {x: 151, y: -227}
+      - {x: 151, y: -199}
+      - {x: 149, y: -194}
+    - - {x: 181, y: -193}
+      - {x: 175, y: -189}
+      - {x: 155, y: -189}
+      - {x: 152, y: -195}
+      - {x: 152, y: -219}
+      - {x: 169, y: -226}
+      - {x: 201, y: -226}
+      - {x: 202, y: -225}
+      - {x: 202, y: -208}
+      - {x: 196, y: -205}
+    - - {x: -77, y: -188}
+      - {x: -77, y: -223}
+      - {x: -7, y: -223}
+      - {x: -4, y: -216}
+      - {x: -4, y: -197}
+      - {x: -39, y: -188}
+    - - {x: -194, y: -189}
+      - {x: -217, y: -189}
+      - {x: -222, y: -193}
+      - {x: -222, y: -214}
+      - {x: -217, y: -221}
+      - {x: -173, y: -221}
+      - {x: -168, y: -218}
+      - {x: -168, y: -203}
+      - {x: -169, y: -201}
+    - - {x: -139, y: -188}
+      - {x: -139, y: -218}
+      - {x: -127, y: -221}
+      - {x: -77, y: -221}
+      - {x: -77, y: -203}
+      - {x: -82, y: -188}
+    - - {x: -280, y: -189}
+      - {x: -289, y: -189}
+      - {x: -302, y: -193}
+      - {x: -302, y: -219}
+      - {x: -257, y: -219}
+      - {x: -256, y: -217}
+      - {x: -256, y: -200}
+    - - {x: 18, y: -192}
+      - {x: 8, y: -188}
+      - {x: -1, y: -188}
+      - {x: -3, y: -189}
+      - {x: -3, y: -214}
+      - {x: -1, y: -219}
+      - {x: 22, y: -219}
+      - {x: 30, y: -211}
+      - {x: 30, y: -205}
+      - {x: 28, y: -200}
+    - - {x: -223, y: -188}
+      - {x: -224, y: -187}
+      - {x: -254, y: -187}
+      - {x: -254, y: -218}
+      - {x: -227, y: -218}
+      - {x: -224, y: -213}
+      - {x: -223, y: -210}
+    - - {x: -163, y: -191}
+      - {x: -164, y: -194}
+      - {x: -164, y: -213}
+      - {x: -159, y: -214}
+      - {x: -147, y: -214}
+      - {x: -140, y: -210}
+      - {x: -140, y: -196}
+      - {x: -150, y: -191}
+    - - {x: -254, y: -142}
+      - {x: -302, y: -160}
+      - {x: -302, y: -187}
+      - {x: -244, y: -187}
+      - {x: -239, y: -163}
+      - {x: -239, y: -148}
+      - {x: -242, y: -142}
+    - - {x: -217, y: -161}
+      - {x: -234, y: -161}
+      - {x: -238, y: -163}
+      - {x: -238, y: -173}
+      - {x: -231, y: -187}
+      - {x: -208, y: -187}
+      - {x: -200, y: -179}
+      - {x: -200, y: -166}
+    - - {x: -140, y: -146}
+      - {x: -164, y: -151}
+      - {x: -164, y: -187}
+      - {x: -108, y: -187}
+      - {x: -89, y: -164}
+      - {x: -89, y: -146}
+    - - {x: -69, y: -146}
+      - {x: -88, y: -155}
+      - {x: -88, y: -187}
+      - {x: -13, y: -187}
+      - {x: -13, y: -146}
+    - - {x: -12, y: -156}
+      - {x: -12, y: -187}
+      - {x: 24, y: -187}
+      - {x: 44, y: -184}
+      - {x: 46, y: -180}
+      - {x: 46, y: -159}
+      - {x: 45, y: -156}
+    - - {x: 47, y: -154}
+      - {x: 47, y: -187}
+      - {x: 109, y: -187}
+      - {x: 115, y: -180}
+      - {x: 115, y: -154}
+    - - {x: 137, y: -160}
+      - {x: 127, y: -156}
+      - {x: 118, y: -156}
+      - {x: 116, y: -157}
+      - {x: 116, y: -182}
+      - {x: 118, y: -187}
+      - {x: 141, y: -187}
+      - {x: 149, y: -179}
+      - {x: 149, y: -173}
+      - {x: 147, y: -168}
+    - - {x: 171, y: -154}
+      - {x: 152, y: -168}
+      - {x: 152, y: -184}
+      - {x: 185, y: -184}
+      - {x: 194, y: -170}
+      - {x: 194, y: -154}
+    - - {x: -194, y: -137}
+      - {x: -197, y: -154}
+      - {x: -197, y: -176}
+      - {x: -196, y: -178}
+      - {x: -175, y: -178}
+      - {x: -165, y: -166}
+      - {x: -165, y: -137}
+    - - {x: -293, y: -106}
+      - {x: -301, y: -115}
+      - {x: -302, y: -117}
+      - {x: -302, y: -127}
+      - {x: -286, y: -136}
+      - {x: -274, y: -136}
+      - {x: -268, y: -132}
+      - {x: -268, y: -112}
+      - {x: -283, y: -106}
+    - - {x: -267, y: -108}
+      - {x: -267, y: -119}
+      - {x: -265, y: -121}
+      - {x: -259, y: -131}
+      - {x: -255, y: -136}
+      - {x: -246, y: -136}
+      - {x: -234, y: -132}
+      - {x: -234, y: -110}
+      - {x: -235, y: -108}
+    - - {x: -227, y: -109}
+      - {x: -233, y: -110}
+      - {x: -233, y: -136}
+      - {x: -201, y: -136}
+      - {x: -192, y: -128}
+      - {x: -192, y: -112}
+      - {x: -193, y: -109}
+    - - {x: -160, y: -103}
+      - {x: -191, y: -109}
+      - {x: -191, y: -136}
+      - {x: -156, y: -136}
+      - {x: -146, y: -124}
+      - {x: -146, y: -105}
+      - {x: -150, y: -103}
+    - - {x: -91, y: -92}
+      - {x: -124, y: -92}
+      - {x: -145, y: -103}
+      - {x: -145, y: -132}
+      - {x: -143, y: -135}
+      - {x: -139, y: -136}
+      - {x: -105, y: -136}
+      - {x: -102, y: -135}
+      - {x: -89, y: -116}
+      - {x: -89, y: -98}
+    - - {x: -63, y: -86}
+      - {x: -88, y: -106}
+      - {x: -88, y: -134}
+      - {x: -87, y: -136}
+      - {x: -55, y: -136}
+      - {x: -32, y: -128}
+      - {x: -32, y: -92}
+      - {x: -33, y: -86}
+    - - {x: -31, y: -110}
+      - {x: -31, y: -124}
+      - {x: -27, y: -135}
+      - {x: -22, y: -136}
+      - {x: 3, y: -136}
+      - {x: 7, y: -131}
+      - {x: 7, y: -114}
+      - {x: -5, y: -110}
+    - - {x: 31, y: -110}
+      - {x: 31, y: -130}
+      - {x: 34, y: -136}
+      - {x: 71, y: -136}
+      - {x: 74, y: -131}
+      - {x: 74, y: -113}
+      - {x: 68, y: -110}
+    - - {x: 114, y: -105}
+      - {x: 93, y: -110}
+      - {x: 93, y: -130}
+      - {x: 96, y: -136}
+      - {x: 121, y: -136}
+      - {x: 138, y: -134}
+      - {x: 147, y: -122}
+      - {x: 147, y: -109}
+      - {x: 140, y: -105}
+    - - {x: 183, y: -100}
+      - {x: 155, y: -108}
+      - {x: 155, y: -129}
+      - {x: 158, y: -136}
+      - {x: 195, y: -136}
+      - {x: 215, y: -126}
+      - {x: 215, y: -100}
+    - - {x: 1, y: -111}
+      - {x: 8, y: -123}
+      - {x: 20, y: -123}
+      - {x: 30, y: -118}
+      - {x: 30, y: -104}
+      - {x: 24, y: -82}
+      - {x: 12, y: -82}
+      - {x: 1, y: -86}
+    - - {x: 66, y: -81}
+      - {x: 66, y: -112}
+      - {x: 68, y: -115}
+      - {x: 91, y: -115}
+      - {x: 92, y: -114}
+      - {x: 92, y: -81}
+    - - {x: 136, y: -87}
+      - {x: 131, y: -89}
+      - {x: 131, y: -102}
+      - {x: 137, y: -105}
+      - {x: 154, y: -105}
+      - {x: 154, y: -87}
+    - - {x: -298, y: -58}
+      - {x: -302, y: -70}
+      - {x: -302, y: -76}
+      - {x: -298, y: -81}
+      - {x: -279, y: -81}
+      - {x: -274, y: -78}
+      - {x: -274, y: -66}
+      - {x: -277, y: -58}
+    - - {x: -268, y: -58}
+      - {x: -273, y: -64}
+      - {x: -273, y: -74}
+      - {x: -271, y: -80}
+      - {x: -246, y: -80}
+      - {x: -245, y: -76}
+      - {x: -245, y: -64}
+      - {x: -253, y: -58}
+    - - {x: -195, y: -58}
+      - {x: -210, y: -58}
+      - {x: -215, y: -64}
+      - {x: -215, y: -74}
+      - {x: -213, y: -80}
+      - {x: -190, y: -80}
+      - {x: -187, y: -77}
+      - {x: -187, y: -68}
+      - {x: -190, y: -60}
+    - - {x: -238, y: -58}
+      - {x: -244, y: -62}
+      - {x: -244, y: -79}
+      - {x: -218, y: -79}
+      - {x: -216, y: -74}
+      - {x: -216, y: -60}
+      - {x: -219, y: -58}
+    - - {x: -282, y: -29}
+      - {x: -300, y: -29}
+      - {x: -302, y: -36}
+      - {x: -302, y: -55}
+      - {x: -294, y: -57}
+      - {x: -279, y: -57}
+      - {x: -278, y: -55}
+      - {x: -278, y: -36}
+      - {x: -280, y: -32}
+    - - {x: -265, y: -29}
+      - {x: -272, y: -30}
+      - {x: -277, y: -35}
+      - {x: -277, y: -46}
+      - {x: -276, y: -54}
+      - {x: -270, y: -57}
+      - {x: -257, y: -57}
+      - {x: -253, y: -55}
+      - {x: -253, y: -34}
+      - {x: -259, y: -29}
+    - - {x: -231, y: -33}
+      - {x: -246, y: -33}
+      - {x: -252, y: -35}
+      - {x: -252, y: -52}
+      - {x: -251, y: -55}
+      - {x: -249, y: -57}
+      - {x: -233, y: -57}
+      - {x: -229, y: -54}
+      - {x: -229, y: -36}
+    - - {x: -222, y: -30}
+      - {x: -228, y: -33}
+      - {x: -228, y: -55}
+      - {x: -226, y: -57}
+      - {x: -208, y: -57}
+      - {x: -206, y: -54}
+      - {x: -206, y: -35}
+      - {x: -208, y: -30}
+    - - {x: -204, y: -29}
+      - {x: -205, y: -30}
+      - {x: -205, y: -55}
+      - {x: -199, y: -57}
+      - {x: -182, y: -57}
+      - {x: -181, y: -53}
+      - {x: -181, y: -33}
+      - {x: -191, y: -29}
+    - - {x: -176, y: -29}
+      - {x: -180, y: -31}
+      - {x: -180, y: -56}
+      - {x: -179, y: -57}
+      - {x: -165, y: -57}
+      - {x: -157, y: -50}
+      - {x: -157, y: -34}
+      - {x: -162, y: -29}
+    - - {x: -139, y: -29}
+      - {x: -148, y: -29}
+      - {x: -151, y: -30}
+      - {x: -156, y: -34}
+      - {x: -156, y: -51}
+      - {x: -153, y: -57}
+      - {x: -138, y: -57}
+      - {x: -136, y: -56}
+      - {x: -131, y: -48}
+      - {x: -131, y: -36}
+    - - {x: -128, y: -33}
+      - {x: -130, y: -34}
+      - {x: -130, y: -53}
+      - {x: -129, y: -57}
+      - {x: -107, y: -57}
+      - {x: -107, y: -36}
+      - {x: -116, y: -33}
+    - - {x: -104, y: -30}
+      - {x: -106, y: -34}
+      - {x: -106, y: -53}
+      - {x: -96, y: -57}
+      - {x: -86, y: -57}
+      - {x: -84, y: -53}
+      - {x: -84, y: -33}
+      - {x: -92, y: -30}
+    - - {x: -78, y: -29}
+      - {x: -83, y: -32}
+      - {x: -83, y: -51}
+      - {x: -81, y: -57}
+      - {x: -63, y: -57}
+      - {x: -59, y: -49}
+      - {x: -59, y: -30}
+      - {x: -66, y: -29}
+    - - {x: -301, y: 18}
+      - {x: -302, y: 16}
+      - {x: -302, y: 1}
+      - {x: -294, y: -28}
+      - {x: -292, y: -29}
+      - {x: -260, y: -29}
+      - {x: -259, y: -27}
+      - {x: -259, y: 6}
+      - {x: -278, y: 18}
+    - - {x: -251, y: 18}
+      - {x: -258, y: 15}
+      - {x: -258, y: -1}
+      - {x: -246, y: -29}
+      - {x: -216, y: -29}
+      - {x: -215, y: -22}
+      - {x: -215, y: -2}
+      - {x: -230, y: 18}
+    - - {x: -299, y: 53}
+      - {x: -302, y: 50}
+      - {x: -302, y: 30}
+      - {x: -299, y: 18}
+      - {x: -283, y: 18}
+      - {x: -275, y: 22}
+      - {x: -275, y: 43}
+      - {x: -288, y: 53}
+    - - {x: -271, y: 49}
+      - {x: -274, y: 42}
+      - {x: -274, y: 24}
+      - {x: -271, y: 18}
+      - {x: -252, y: 18}
+      - {x: -246, y: 20}
+      - {x: -246, y: 42}
+      - {x: -257, y: 49}
+    - - {x: -245, y: 53}
+      - {x: -245, y: 38}
+      - {x: -243, y: 29}
+      - {x: -233, y: 18}
+      - {x: -209, y: 18}
+      - {x: -208, y: 21}
+      - {x: -208, y: 39}
+      - {x: -230, y: 53}
+    - - {x: -205, y: 53}
+      - {x: -207, y: 52}
+      - {x: -207, y: 34}
+      - {x: -204, y: 24}
+      - {x: -191, y: 18}
+      - {x: -170, y: 18}
+      - {x: -170, y: 41}
+      - {x: -197, y: 53}
+    - - {x: -157, y: 52}
+      - {x: -160, y: 53}
+      - {x: -165, y: 53}
+      - {x: -168, y: 50}
+      - {x: -169, y: 47}
+      - {x: -169, y: 42}
+      - {x: -157, y: 18}
+      - {x: -133, y: 18}
+      - {x: -133, y: 41}
+      - {x: -142, y: 46}
+    - - {x: -114, y: 55}
+      - {x: -129, y: 55}
+      - {x: -132, y: 53}
+      - {x: -132, y: 34}
+      - {x: -128, y: 23}
+      - {x: -117, y: 18}
+      - {x: -94, y: 18}
+      - {x: -94, y: 40}
+      - {x: -98, y: 53}
+    - - {x: -63, y: 45}
+      - {x: -81, y: 45}
+      - {x: -83, y: 38}
+      - {x: -83, y: 24}
+      - {x: -76, y: 18}
+      - {x: -58, y: 18}
+      - {x: -55, y: 21}
+      - {x: -55, y: 38}
+    - - {x: -51, y: 55}
+      - {x: -54, y: 53}
+      - {x: -54, y: 38}
+      - {x: -45, y: 18}
+      - {x: -16, y: 18}
+      - {x: -16, y: 46}
+      - {x: -30, y: 55}
+    - - {x: 1, y: 46}
+      - {x: -2, y: 44}
+      - {x: -2, y: 27}
+      - {x: 1, y: 18}
+      - {x: 25, y: 18}
+      - {x: 25, y: 45}
+      - {x: 20, y: 46}
+    - - {x: 40, y: 46}
+      - {x: 37, y: 41}
+      - {x: 37, y: 32}
+      - {x: 40, y: 18}
+      - {x: 63, y: 18}
+      - {x: 66, y: 19}
+      - {x: 66, y: 44}
+      - {x: 62, y: 46}
+    - - {x: 84, y: 46}
+      - {x: 81, y: 44}
+      - {x: 80, y: 41}
+      - {x: 79, y: 32}
+      - {x: 79, y: 28}
+      - {x: 86, y: 18}
+      - {x: 107, y: 18}
+      - {x: 107, y: 40}
+      - {x: 104, y: 46}
+    - - {x: 113, y: 46}
+      - {x: 110, y: 44}
+      - {x: 109, y: 41}
+      - {x: 108, y: 32}
+      - {x: 108, y: 28}
+      - {x: 115, y: 18}
+      - {x: 136, y: 18}
+      - {x: 136, y: 40}
+      - {x: 133, y: 46}
+    - - {x: 142, y: 46}
+      - {x: 137, y: 45}
+      - {x: 137, y: 27}
+      - {x: 140, y: 18}
+      - {x: 166, y: 18}
+      - {x: 166, y: 42}
+      - {x: 160, y: 46}
+    - - {x: 169, y: 45}
+      - {x: 167, y: 44}
+      - {x: 167, y: 21}
+      - {x: 175, y: 18}
+      - {x: 197, y: 18}
+      - {x: 197, y: 24}
+      - {x: 196, y: 38}
+      - {x: 187, y: 45}
+    - - {x: 200, y: 44}
+      - {x: 198, y: 36}
+      - {x: 198, y: 24}
+      - {x: 207, y: 18}
+      - {x: 224, y: 18}
+      - {x: 227, y: 21}
+      - {x: 227, y: 36}
+      - {x: 223, y: 44}
+    - - {x: -84, y: 55}
+      - {x: -89, y: 55}
+      - {x: -92, y: 52}
+      - {x: -93, y: 49}
+      - {x: -93, y: 45}
+      - {x: -92, y: 44}
+      - {x: -84, y: 42}
+      - {x: -82, y: 42}
+      - {x: -80, y: 44}
+      - {x: -80, y: 49}
+      - {x: -81, y: 54}
+    - - {x: -6, y: 57}
+      - {x: -10, y: 57}
+      - {x: -15, y: 53}
+      - {x: -15, y: 47}
+      - {x: -14, y: 45}
+      - {x: -8, y: 44}
+      - {x: -4, y: 44}
+      - {x: -2, y: 46}
+      - {x: -2, y: 49}
+      - {x: -4, y: 56}
+    - - {x: 35, y: 57}
+      - {x: 31, y: 57}
+      - {x: 26, y: 53}
+      - {x: 26, y: 47}
+      - {x: 27, y: 45}
+      - {x: 33, y: 44}
+      - {x: 37, y: 44}
+      - {x: 39, y: 46}
+      - {x: 39, y: 49}
+      - {x: 37, y: 56}
+    - - {x: 76, y: 57}
+      - {x: 72, y: 57}
+      - {x: 67, y: 53}
+      - {x: 67, y: 47}
+      - {x: 68, y: 45}
+      - {x: 74, y: 44}
+      - {x: 78, y: 44}
+      - {x: 80, y: 46}
+      - {x: 80, y: 49}
+      - {x: 78, y: 56}
+    - - {x: -276, y: 90}
+      - {x: -276, y: 57}
+      - {x: -257, y: 57}
+      - {x: -248, y: 66}
+      - {x: -248, y: 85}
+      - {x: -256, y: 90}
+    - - {x: -66, y: 90}
+      - {x: -78, y: 90}
+      - {x: -84, y: 84}
+      - {x: -84, y: 64}
+      - {x: -77, y: 57}
+      - {x: -59, y: 57}
+      - {x: -57, y: 59}
+      - {x: -56, y: 61}
+      - {x: -56, y: 79}
+    - - {x: -29, y: 61}
+      - {x: -24, y: 57}
+      - {x: -12, y: 57}
+      - {x: -1, y: 66}
+      - {x: -1, y: 88}
+      - {x: -2, y: 90}
+      - {x: -20, y: 90}
+      - {x: -29, y: 79}
+    - - {x: 171, y: 90}
+      - {x: 163, y: 86}
+      - {x: 163, y: 70}
+      - {x: 172, y: 57}
+      - {x: 183, y: 57}
+      - {x: 188, y: 60}
+      - {x: 191, y: 65}
+      - {x: 191, y: 77}
+      - {x: 184, y: 90}
+    - - {x: -226, y: 90}
+      - {x: -238, y: 90}
+      - {x: -247, y: 77}
+      - {x: -247, y: 65}
+      - {x: -237, y: 59}
+      - {x: -228, y: 59}
+      - {x: -217, y: 71}
+      - {x: -216, y: 73}
+      - {x: -216, y: 85}
+    - - {x: -99, y: 90}
+      - {x: -107, y: 90}
+      - {x: -116, y: 80}
+      - {x: -116, y: 75}
+      - {x: -104, y: 60}
+      - {x: -99, y: 59}
+      - {x: -92, y: 59}
+      - {x: -85, y: 64}
+      - {x: -85, y: 77}
+    - - {x: 12, y: 90}
+      - {x: 0, y: 76}
+      - {x: 0, y: 67}
+      - {x: 4, y: 59}
+      - {x: 19, y: 59}
+      - {x: 31, y: 66}
+      - {x: 31, y: 84}
+      - {x: 22, y: 90}
+    - - {x: 144, y: 90}
+      - {x: 140, y: 90}
+      - {x: 131, y: 81}
+      - {x: 131, y: 77}
+      - {x: 132, y: 71}
+      - {x: 147, y: 59}
+      - {x: 157, y: 59}
+      - {x: 162, y: 67}
+      - {x: 162, y: 79}
+      - {x: 150, y: 89}
+    - - {x: -302, y: 72}
+      - {x: -301, y: 63}
+      - {x: -300, y: 60}
+      - {x: -280, y: 60}
+      - {x: -277, y: 61}
+      - {x: -277, y: 90}
+      - {x: -299, y: 90}
+      - {x: -302, y: 85}
+    - - {x: -36, y: 90}
+      - {x: -50, y: 90}
+      - {x: -55, y: 84}
+      - {x: -55, y: 66}
+      - {x: -52, y: 60}
+      - {x: -33, y: 60}
+      - {x: -30, y: 65}
+      - {x: -30, y: 78}
+      - {x: -31, y: 87}
+    - - {x: -187, y: 90}
+      - {x: -202, y: 90}
+      - {x: -215, y: 81}
+      - {x: -215, y: 71}
+      - {x: -209, y: 62}
+      - {x: -200, y: 62}
+      - {x: -185, y: 65}
+      - {x: -182, y: 72}
+      - {x: -182, y: 86}
+      - {x: -184, y: 89}
+    - - {x: -131, y: 90}
+      - {x: -142, y: 90}
+      - {x: -148, y: 88}
+      - {x: -150, y: 83}
+      - {x: -150, y: 71}
+      - {x: -139, y: 62}
+      - {x: -122, y: 62}
+      - {x: -117, y: 70}
+      - {x: -117, y: 77}
+      - {x: -121, y: 86}
+    - - {x: 40, y: 90}
+      - {x: 32, y: 82}
+      - {x: 32, y: 65}
+      - {x: 34, y: 63}
+      - {x: 38, y: 62}
+      - {x: 52, y: 62}
+      - {x: 65, y: 71}
+      - {x: 65, y: 88}
+      - {x: 63, y: 90}
+    - - {x: 101, y: 90}
+      - {x: 97, y: 85}
+      - {x: 97, y: 73}
+      - {x: 106, y: 62}
+      - {x: 128, y: 62}
+      - {x: 130, y: 63}
+      - {x: 130, y: 81}
+      - {x: 119, y: 90}
+    - - {x: -169, y: 90}
+      - {x: -178, y: 89}
+      - {x: -181, y: 84}
+      - {x: -181, y: 68}
+      - {x: -175, y: 65}
+      - {x: -157, y: 65}
+      - {x: -151, y: 68}
+      - {x: -151, y: 87}
+      - {x: -156, y: 90}
+    - - {x: 90, y: 90}
+      - {x: 71, y: 90}
+      - {x: 66, y: 87}
+      - {x: 66, y: 68}
+      - {x: 71, y: 65}
+      - {x: 84, y: 65}
+      - {x: 93, y: 66}
+      - {x: 96, y: 71}
+      - {x: 96, y: 85}
+    - - {x: -300, y: 125}
+      - {x: -302, y: 124}
+      - {x: -302, y: 108}
+      - {x: -301, y: 93}
+      - {x: -298, y: 90}
+      - {x: -278, y: 90}
+      - {x: -273, y: 98}
+      - {x: -273, y: 120}
+      - {x: -278, y: 125}
+    - - {x: -270, y: 125}
+      - {x: -273, y: 124}
+      - {x: -273, y: 97}
+      - {x: -272, y: 90}
+      - {x: -247, y: 90}
+      - {x: -244, y: 98}
+      - {x: -244, y: 117}
+      - {x: -250, y: 125}
+    - - {x: -241, y: 123}
+      - {x: -244, y: 122}
+      - {x: -244, y: 100}
+      - {x: -243, y: 92}
+      - {x: -242, y: 90}
+      - {x: -218, y: 90}
+      - {x: -215, y: 98}
+      - {x: -215, y: 118}
+      - {x: -218, y: 123}
+    - - {x: -205, y: 120}
+      - {x: -209, y: 119}
+      - {x: -214, y: 115}
+      - {x: -214, y: 101}
+      - {x: -209, y: 90}
+      - {x: -190, y: 90}
+      - {x: -185, y: 93}
+      - {x: -185, y: 115}
+      - {x: -193, y: 120}
+    - - {x: -181, y: 117}
+      - {x: -185, y: 109}
+      - {x: -185, y: 94}
+      - {x: -182, y: 90}
+      - {x: -161, y: 90}
+      - {x: -157, y: 91}
+      - {x: -157, y: 112}
+      - {x: -164, y: 117}
+    - - {x: -280, y: 152}
+      - {x: -294, y: 152}
+      - {x: -302, y: 145}
+      - {x: -302, y: 138}
+      - {x: -300, y: 127}
+      - {x: -298, y: 125}
+      - {x: -277, y: 125}
+      - {x: -275, y: 128}
+      - {x: -274, y: 136}
+      - {x: -274, y: 144}
+    - - {x: -268, y: 148}
+      - {x: -273, y: 144}
+      - {x: -273, y: 138}
+      - {x: -272, y: 127}
+      - {x: -269, y: 125}
+      - {x: -249, y: 125}
+      - {x: -246, y: 128}
+      - {x: -246, y: 139}
+      - {x: -251, y: 148}
+    - - {x: -240, y: 152}
+      - {x: -245, y: 146}
+      - {x: -245, y: 131}
+      - {x: -242, y: 125}
+      - {x: -222, y: 125}
+      - {x: -217, y: 126}
+      - {x: -217, y: 147}
+      - {x: -224, y: 152}
+    - - {x: -216, y: 155}
+      - {x: -216, y: 125}
+      - {x: -191, y: 125}
+      - {x: -187, y: 126}
+      - {x: -187, y: 151}
+      - {x: -195, y: 155}
+    - - {x: -184, y: 154}
+      - {x: -186, y: 150}
+      - {x: -186, y: 127}
+      - {x: -185, y: 125}
+      - {x: -160, y: 125}
+      - {x: -160, y: 151}
+      - {x: -166, y: 154}
+    - - {x: -137, y: 160}
+      - {x: -159, y: 160}
+      - {x: -159, y: 131}
+      - {x: -158, y: 125}
+      - {x: -138, y: 125}
+      - {x: -130, y: 133}
+      - {x: -130, y: 145}
+      - {x: -131, y: 152}
+    - - {x: -129, y: 158}
+      - {x: -129, y: 137}
+      - {x: -127, y: 127}
+      - {x: -127, y: 125}
+      - {x: -100, y: 125}
+      - {x: -100, y: 157}
+      - {x: -102, y: 158}
+    - - {x: -75, y: 158}
+      - {x: -89, y: 158}
+      - {x: -99, y: 155}
+      - {x: -99, y: 135}
+      - {x: -96, y: 125}
+      - {x: -78, y: 125}
+      - {x: -69, y: 133}
+      - {x: -69, y: 153}
+    - - {x: -67, y: 158}
+      - {x: -68, y: 154}
+      - {x: -68, y: 127}
+      - {x: -64, y: 125}
+      - {x: -47, y: 125}
+      - {x: -38, y: 132}
+      - {x: -38, y: 157}
+      - {x: -42, y: 158}
+    - - {x: -34, y: 157}
+      - {x: -37, y: 156}
+      - {x: -37, y: 129}
+      - {x: -35, y: 125}
+      - {x: -16, y: 125}
+      - {x: -7, y: 128}
+      - {x: -7, y: 155}
+      - {x: -9, y: 157}
+    - - {x: -6, y: 158}
+      - {x: -6, y: 126}
+      - {x: -3, y: 125}
+      - {x: 16, y: 125}
+      - {x: 23, y: 128}
+      - {x: 23, y: 150}
+      - {x: 20, y: 158}
+    - - {x: -11, y: 192}
+      - {x: -24, y: 192}
+      - {x: -30, y: 189}
+      - {x: -32, y: 186}
+      - {x: -32, y: 168}
+      - {x: -29, y: 161}
+      - {x: -13, y: 161}
+      - {x: -9, y: 163}
+      - {x: -7, y: 175}
+      - {x: -7, y: 189}
+    - - {x: -59, y: 193}
+      - {x: -59, y: 162}
+      - {x: -33, y: 162}
+      - {x: -33, y: 185}
+      - {x: -39, y: 193}
+    - - {x: -2, y: 193}
+      - {x: -6, y: 191}
+      - {x: -6, y: 165}
+      - {x: 15, y: 165}
+      - {x: 21, y: 172}
+      - {x: 21, y: 193}
+    - - {x: -64, y: 194}
+      - {x: -86, y: 194}
+      - {x: -87, y: 191}
+      - {x: -87, y: 170}
+      - {x: -79, y: 167}
+      - {x: -62, y: 167}
+      - {x: -60, y: 170}
+      - {x: -60, y: 186}
+      - {x: -61, y: 193}
+    - - {x: -113, y: 194}
+      - {x: -115, y: 191}
+      - {x: -115, y: 172}
+      - {x: -113, y: 170}
+      - {x: -89, y: 170}
+      - {x: -88, y: 176}
+      - {x: -88, y: 193}
+      - {x: -89, y: 194}
+    - - {x: 45, y: 196}
+      - {x: 28, y: 196}
+      - {x: 22, y: 194}
+      - {x: 22, y: 171}
+      - {x: 47, y: 171}
+      - {x: 50, y: 174}
+      - {x: 50, y: 186}
+      - {x: 47, y: 195}
+    - - {x: -284, y: 210}
+      - {x: -301, y: 210}
+      - {x: -302, y: 209}
+      - {x: -302, y: 182}
+      - {x: -296, y: 172}
+      - {x: -281, y: 172}
+      - {x: -276, y: 175}
+      - {x: -276, y: 185}
+      - {x: -279, y: 201}
+    - - {x: -251, y: 202}
+      - {x: -256, y: 210}
+      - {x: -272, y: 210}
+      - {x: -275, y: 206}
+      - {x: -275, y: 192}
+      - {x: -273, y: 180}
+      - {x: -267, y: 172}
+      - {x: -254, y: 172}
+      - {x: -249, y: 177}
+      - {x: -249, y: 185}
+    - - {x: -239, y: 208}
+      - {x: -242, y: 206}
+      - {x: -248, y: 191}
+      - {x: -248, y: 172}
+      - {x: -229, y: 172}
+      - {x: -222, y: 174}
+      - {x: -222, y: 207}
+      - {x: -224, y: 208}
+    - - {x: -212, y: 203}
+      - {x: -216, y: 202}
+      - {x: -221, y: 187}
+      - {x: -221, y: 175}
+      - {x: -216, y: 172}
+      - {x: -197, y: 172}
+      - {x: -195, y: 180}
+      - {x: -195, y: 203}
+    - - {x: -191, y: 199}
+      - {x: -194, y: 197}
+      - {x: -194, y: 179}
+      - {x: -192, y: 172}
+      - {x: -169, y: 172}
+      - {x: -169, y: 199}
+    - - {x: -164, y: 200}
+      - {x: -168, y: 198}
+      - {x: -168, y: 176}
+      - {x: -163, y: 172}
+      - {x: -145, y: 172}
+      - {x: -143, y: 176}
+      - {x: -143, y: 199}
+      - {x: -146, y: 200}
+    - - {x: -142, y: 200}
+      - {x: -142, y: 175}
+      - {x: -141, y: 172}
+      - {x: -116, y: 172}
+      - {x: -116, y: 190}
+      - {x: -118, y: 198}
+      - {x: -122, y: 200}
+    - - {x: 73, y: 197}
+      - {x: 57, y: 197}
+      - {x: 52, y: 192}
+      - {x: 51, y: 187}
+      - {x: 51, y: 174}
+      - {x: 59, y: 172}
+      - {x: 79, y: 172}
+      - {x: 81, y: 176}
+      - {x: 81, y: 178}
+      - {x: 80, y: 187}
+    - - {x: 83, y: 210}
+      - {x: 82, y: 209}
+      - {x: 82, y: 183}
+      - {x: 88, y: 172}
+      - {x: 103, y: 172}
+      - {x: 108, y: 175}
+      - {x: 108, y: 204}
+      - {x: 98, y: 210}
+    - - {x: 128, y: 210}
+      - {x: 109, y: 210}
+      - {x: 109, y: 181}
+      - {x: 117, y: 172}
+      - {x: 132, y: 172}
+      - {x: 135, y: 177}
+      - {x: 135, y: 194}
+      - {x: 133, y: 202}
+    - - {x: 150.3125, y: 201.23975}
+      - {x: 137.61716, y: 200.7138}
+      - {x: 136, y: 188}
+      - {x: 136, y: 179}
+      - {x: 139, y: 172}
+      - {x: 163, y: 172}
+      - {x: 166, y: 177}
+      - {x: 166, y: 185}
+      - {x: 166.6619, y: 201.94098}
+    - - {x: 258, y: 222}
+      - {x: 258, y: 175}
+      - {x: 260, y: 173}
+      - {x: 302, y: 173}
+      - {x: 302, y: 222}
+    - - {x: -149, y: 242}
+      - {x: -153, y: 233}
+      - {x: -153, y: 211}
+      - {x: -124, y: 211}
+      - {x: -124, y: 225}
+      - {x: -132, y: 242}
+    - - {x: -104, y: 239}
+      - {x: -119, y: 239}
+      - {x: -123, y: 236}
+      - {x: -123, y: 214}
+      - {x: -122, y: 211}
+      - {x: -105, y: 211}
+      - {x: -96, y: 220}
+      - {x: -96, y: 237}
+    - - {x: -89, y: 241}
+      - {x: -95, y: 234}
+      - {x: -95, y: 223}
+      - {x: -86, y: 216}
+      - {x: -66, y: 216}
+      - {x: -65, y: 219}
+      - {x: -65, y: 235}
+      - {x: -73, y: 241}
+    - - {x: -45, y: 250}
+      - {x: -48, y: 253}
+      - {x: -51, y: 254}
+      - {x: -61, y: 254}
+      - {x: -64, y: 253}
+      - {x: -64, y: 230}
+      - {x: -61, y: 217}
+      - {x: -56, y: 216}
+      - {x: -40, y: 216}
+      - {x: -38, y: 219}
+      - {x: -38, y: 234}
+      - {x: -42, y: 244}
+    - - {x: -18, y: 254}
+      - {x: -37, y: 254}
+      - {x: -37, y: 225}
+      - {x: -29, y: 216}
+      - {x: -14, y: 216}
+      - {x: -11, y: 221}
+      - {x: -11, y: 238}
+      - {x: -13, y: 246}
+    - - {x: -4, y: 237}
+      - {x: -10, y: 232}
+      - {x: -10, y: 223}
+      - {x: -7, y: 216}
+      - {x: 17, y: 216}
+      - {x: 20, y: 221}
+      - {x: 20, y: 229}
+      - {x: 14, y: 237}
+    - - {x: -191, y: 244}
+      - {x: -205, y: 244}
+      - {x: -213, y: 234}
+      - {x: -213, y: 221}
+      - {x: -210, y: 218}
+      - {x: -205, y: 217}
+      - {x: -194, y: 218}
+      - {x: -188, y: 221}
+      - {x: -186, y: 235}
+      - {x: -186, y: 240}
+    - - {x: -162, y: 241}
+      - {x: -182, y: 241}
+      - {x: -185, y: 240}
+      - {x: -185, y: 221}
+      - {x: -184, y: 217}
+      - {x: -159, y: 217}
+      - {x: -154, y: 222}
+      - {x: -154, y: 231}
+      - {x: -156, y: 237}
+    - - {x: -297, y: 246}
+      - {x: -302, y: 239}
+      - {x: -302, y: 223}
+      - {x: -299, y: 218}
+      - {x: -278, y: 218}
+      - {x: -274, y: 230}
+      - {x: -274, y: 242}
+      - {x: -281, y: 246}
+    - - {x: -252, y: 245}
+      - {x: -264, y: 245}
+      - {x: -271, y: 240}
+      - {x: -273, y: 230}
+      - {x: -273, y: 226}
+      - {x: -266, y: 218}
+      - {x: -252, y: 218}
+      - {x: -245, y: 227}
+      - {x: -244, y: 232}
+      - {x: -244, y: 239}
+    - - {x: -237, y: 253}
+      - {x: -239, y: 248}
+      - {x: -239, y: 218}
+      - {x: -219, y: 218}
+      - {x: -214, y: 219}
+      - {x: -214, y: 242}
+      - {x: -220, y: 253}
+    - - {x: 63, y: 385}
+      - {x: 63, y: 225}
+      - {x: 65, y: 223}
+      - {x: 305, y: 223}
+      - {x: 305, y: 385}
+    - - {x: -295, y: 282}
+      - {x: -302, y: 277}
+      - {x: -302, y: 262}
+      - {x: -293, y: 255}
+      - {x: -273, y: 255}
+      - {x: -273, y: 278}
+      - {x: -278, y: 282}
+    - - {x: -252, y: 283}
+      - {x: -265, y: 283}
+      - {x: -272, y: 280}
+      - {x: -272, y: 270}
+      - {x: -265, y: 255}
+      - {x: -244, y: 255}
+      - {x: -242, y: 261}
+      - {x: -242, y: 277}
+      - {x: -249, y: 282}
+    - - {x: -241, y: 284}
+      - {x: -241, y: 269}
+      - {x: -234, y: 256}
+      - {x: -224, y: 255}
+      - {x: -215, y: 255}
+      - {x: -213, y: 256}
+      - {x: -213, y: 275}
+      - {x: -216, y: 284}
+    - - {x: -210, y: 284}
+      - {x: -212, y: 283}
+      - {x: -212, y: 274}
+      - {x: -207, y: 259}
+      - {x: -200, y: 255}
+      - {x: -189, y: 255}
+      - {x: -184, y: 263}
+      - {x: -184, y: 276}
+      - {x: -193, y: 284}
+    - - {x: -183, y: 283}
+      - {x: -183, y: 269}
+      - {x: -175, y: 255}
+      - {x: -158, y: 255}
+      - {x: -155, y: 263}
+      - {x: -155, y: 280}
+      - {x: -158, y: 283}
+    - - {x: -132, y: 283}
+      - {x: -149, y: 283}
+      - {x: -154, y: 277}
+      - {x: -154, y: 269}
+      - {x: -150, y: 258}
+      - {x: -144, y: 255}
+      - {x: -130, y: 255}
+      - {x: -125, y: 262}
+      - {x: -125, y: 275}
+    - - {x: -98, y: 282}
+      - {x: -115, y: 282}
+      - {x: -124, y: 281}
+      - {x: -124, y: 268}
+      - {x: -115, y: 256}
+      - {x: -104, y: 255}
+      - {x: -92, y: 255}
+      - {x: -89, y: 260}
+      - {x: -89, y: 265}
+      - {x: -91, y: 276}
+    - - {x: -85, y: 282}
+      - {x: -88, y: 279}
+      - {x: -88, y: 262}
+      - {x: -87, y: 255}
+      - {x: -57, y: 255}
+      - {x: -57, y: 280}
+      - {x: -62, y: 282}
+    - - {x: -33, y: 281}
+      - {x: -45, y: 281}
+      - {x: -56, y: 276}
+      - {x: -56, y: 259}
+      - {x: -53, y: 257}
+      - {x: -40, y: 255}
+      - {x: -33, y: 255}
+      - {x: -26, y: 262}
+      - {x: -26, y: 271}
+    - - {x: -281, y: 312}
+      - {x: -298, y: 312}
+      - {x: -302, y: 309}
+      - {x: -302, y: 288}
+      - {x: -293, y: 285}
+      - {x: -280, y: 285}
+      - {x: -275, y: 293}
+      - {x: -275, y: 305}
+    - - {x: -274, y: 314}
+      - {x: -274, y: 287}
+      - {x: -267, y: 285}
+      - {x: -246, y: 285}
+      - {x: -246, y: 305}
+      - {x: -250, y: 314}
+    - - {x: -245, y: 313}
+      - {x: -245, y: 301}
+      - {x: -243, y: 295}
+      - {x: -237, y: 285}
+      - {x: -225, y: 285}
+      - {x: -217, y: 288}
+      - {x: -217, y: 308}
+      - {x: -222, y: 313}
+    - - {x: -212, y: 311}
+      - {x: -216, y: 308}
+      - {x: -216, y: 295}
+      - {x: -210, y: 285}
+      - {x: -188, y: 285}
+      - {x: -188, y: 309}
+      - {x: -197, y: 311}
+    - - {x: -184, y: 308}
+      - {x: -187, y: 304}
+      - {x: -187, y: 291}
+      - {x: -182, y: 285}
+      - {x: -167, y: 285}
+      - {x: -161, y: 288}
+      - {x: -161, y: 306}
+      - {x: -166, y: 308}
+    - - {x: -155, y: 310}
+      - {x: -160, y: 305}
+      - {x: -160, y: 293}
+      - {x: -159, y: 285}
+      - {x: -133, y: 285}
+      - {x: -132, y: 287}
+      - {x: -132, y: 308}
+      - {x: -141, y: 310}
+    - - {x: -126, y: 311}
+      - {x: -131, y: 305}
+      - {x: -131, y: 295}
+      - {x: -122, y: 285}
+      - {x: -109, y: 285}
+      - {x: -101, y: 287}
+      - {x: -101, y: 307}
+      - {x: -105, y: 311}
+    - - {x: -98, y: 313}
+      - {x: -100, y: 308}
+      - {x: -100, y: 300}
+      - {x: -92, y: 285}
+      - {x: -72, y: 285}
+      - {x: -68, y: 291}
+      - {x: -68, y: 308}
+      - {x: -79, y: 313}
+    - - {x: -44, y: 312}
+      - {x: -66, y: 312}
+      - {x: -67, y: 309}
+      - {x: -67, y: 300}
+      - {x: -59, y: 285}
+      - {x: -39, y: 285}
+      - {x: -35, y: 291}
+      - {x: -35, y: 306}
+    - - {x: -30, y: 311}
+      - {x: -34, y: 307}
+      - {x: -34, y: 294}
+      - {x: -30, y: 285}
+      - {x: -4, y: 285}
+      - {x: -4, y: 308}
+      - {x: -9, y: 311}
+    - - {x: -3, y: 291}
+      - {x: 1, y: 285}
+      - {x: 23, y: 285}
+      - {x: 25, y: 286}
+      - {x: 25, y: 300}
+      - {x: 24, y: 304}
+      - {x: 22, y: 308}
+      - {x: -3, y: 308}
+    - - {x: 32, y: 311}
+      - {x: 26, y: 310}
+      - {x: 26, y: 288}
+      - {x: 35, y: 285}
+      - {x: 50, y: 285}
+      - {x: 53, y: 290}
+      - {x: 53, y: 306}
+      - {x: 48, y: 311}
+    - - {x: -218, y: 339}
+      - {x: -231, y: 339}
+      - {x: -240, y: 331}
+      - {x: -240, y: 327}
+      - {x: -239, y: 316}
+      - {x: -235, y: 315}
+      - {x: -223, y: 315}
+      - {x: -212, y: 319}
+      - {x: -210, y: 323}
+      - {x: -210, y: 329}
+    - - {x: -187, y: 339}
+      - {x: -200, y: 339}
+      - {x: -209, y: 331}
+      - {x: -209, y: 327}
+      - {x: -208, y: 316}
+      - {x: -204, y: 315}
+      - {x: -192, y: 315}
+      - {x: -181, y: 319}
+      - {x: -179, y: 323}
+      - {x: -179, y: 329}
+    - - {x: -169, y: 339}
+      - {x: -178, y: 331}
+      - {x: -178, y: 321}
+      - {x: -163, y: 315}
+      - {x: -150, y: 315}
+      - {x: -148, y: 316}
+      - {x: -148, y: 327}
+      - {x: -156, y: 339}
+    - - {x: -138, y: 339}
+      - {x: -147, y: 331}
+      - {x: -147, y: 321}
+      - {x: -132, y: 315}
+      - {x: -119, y: 315}
+      - {x: -117, y: 316}
+      - {x: -117, y: 327}
+      - {x: -125, y: 339}
+    - - {x: -296, y: 339}
+      - {x: -302, y: 334}
+      - {x: -302, y: 325}
+      - {x: -299, y: 318}
+      - {x: -275, y: 318}
+      - {x: -272, y: 323}
+      - {x: -272, y: 331}
+      - {x: -278, y: 339}
+    - - {x: -265, y: 339}
+      - {x: -271, y: 334}
+      - {x: -271, y: 325}
+      - {x: -268, y: 318}
+      - {x: -244, y: 318}
+      - {x: -241, y: 323}
+      - {x: -241, y: 331}
+      - {x: -247, y: 339}
+    - - {x: -102, y: 318}
+      - {x: -72, y: 318}
+      - {x: -72, y: 327}
+      - {x: -81, y: 342}
+      - {x: -116, y: 342}
+      - {x: -116, y: 328}
+    - - {x: -40, y: 338}
+      - {x: -54, y: 343}
+      - {x: -62, y: 343}
+      - {x: -71, y: 334}
+      - {x: -71, y: 325}
+      - {x: -56, y: 318}
+      - {x: -31, y: 318}
+      - {x: -28, y: 321}
+      - {x: -28, y: 325}
+    - - {x: -23, y: 342}
+      - {x: -25, y: 337}
+      - {x: -27, y: 326}
+      - {x: -27, y: 322}
+      - {x: -23, y: 318}
+      - {x: 4, y: 318}
+      - {x: 4, y: 340}
+      - {x: -3, y: 342}
+    - - {x: -221, y: 374}
+      - {x: -236, y: 374}
+      - {x: -244, y: 367}
+      - {x: -244, y: 358}
+      - {x: -242, y: 345}
+      - {x: -239, y: 344}
+      - {x: -229, y: 344}
+      - {x: -220, y: 348}
+      - {x: -216, y: 351}
+      - {x: -216, y: 365}
+    - - {x: -193, y: 374}
+      - {x: -210, y: 374}
+      - {x: -215, y: 366}
+      - {x: -215, y: 353}
+      - {x: -212, y: 346}
+      - {x: -208, y: 344}
+      - {x: -199, y: 344}
+      - {x: -187, y: 349}
+      - {x: -187, y: 367}
+      - {x: -188, y: 371}
+    - - {x: -178, y: 374}
+      - {x: -186, y: 367}
+      - {x: -186, y: 359}
+      - {x: -184, y: 350}
+      - {x: -169, y: 344}
+      - {x: -161, y: 344}
+      - {x: -158, y: 345}
+      - {x: -158, y: 365}
+      - {x: -164, y: 374}
+    - - {x: -151, y: 374}
+      - {x: -157, y: 366}
+      - {x: -157, y: 354}
+      - {x: -155, y: 350}
+      - {x: -143, y: 344}
+      - {x: -130, y: 344}
+      - {x: -129, y: 345}
+      - {x: -129, y: 365}
+      - {x: -135, y: 374}
+    - - {x: -297, y: 375}
+      - {x: -302, y: 366}
+      - {x: -302, y: 357}
+      - {x: -296, y: 348}
+      - {x: -277, y: 348}
+      - {x: -274, y: 349}
+      - {x: -274, y: 366}
+      - {x: -280, y: 375}
+    - - {x: -245, y: 366}
+      - {x: -251, y: 375}
+      - {x: -265, y: 375}
+      - {x: -273, y: 369}
+      - {x: -273, y: 357}
+      - {x: -271, y: 349}
+      - {x: -268, y: 348}
+      - {x: -248, y: 348}
+      - {x: -245, y: 351}
+    - - {x: -117, y: 383}
+      - {x: -127, y: 383}
+      - {x: -128, y: 380}
+      - {x: -128, y: 349}
+      - {x: -125, y: 348}
+      - {x: -115, y: 348}
+      - {x: -114, y: 351}
+      - {x: -113, y: 368}
+      - {x: -113, y: 382}
+    - - {x: -111, y: 369}
+      - {x: -112, y: 368}
+      - {x: -112, y: 350}
+      - {x: -109, y: 348}
+      - {x: -93, y: 348}
+      - {x: -87, y: 353}
+      - {x: -87, y: 368}
+      - {x: -88, y: 369}
+    - - {x: -85, y: 377}
+      - {x: -86, y: 375}
+      - {x: -86, y: 360}
+      - {x: -82, y: 348}
+      - {x: -70, y: 348}
+      - {x: -59, y: 352}
+      - {x: -59, y: 376}
+      - {x: -64, y: 377}
+    - - {x: -58, y: 357}
+      - {x: -57, y: 350}
+      - {x: -52, y: 348}
+      - {x: -36, y: 348}
+      - {x: -30, y: 351}
+      - {x: -30, y: 369}
+      - {x: -33, y: 377}
+      - {x: -50, y: 377}
+      - {x: -58, y: 371}
+    - - {x: -29, y: 380}
+      - {x: -29, y: 367}
+      - {x: -26, y: 359}
+      - {x: -20, y: 348}
+      - {x: -3, y: 348}
+      - {x: 0, y: 350}
+      - {x: 0, y: 375}
+      - {x: -7, y: 380}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kirby_sheet_0: 2086354447
+      kirby_sheet_1: -1127102467
+      kirby_sheet_10: 83452003
+      kirby_sheet_100: -85016138
+      kirby_sheet_101: -1742320754
+      kirby_sheet_102: -1130929137
+      kirby_sheet_103: -2069450755
+      kirby_sheet_104: -531333895
+      kirby_sheet_105: 2091723538
+      kirby_sheet_106: 388439677
+      kirby_sheet_107: -270474146
+      kirby_sheet_108: -1422350234
+      kirby_sheet_109: 1580765946
+      kirby_sheet_11: 365988469
+      kirby_sheet_110: -1573896899
+      kirby_sheet_111: 2134502868
+      kirby_sheet_112: -1636525604
+      kirby_sheet_113: 752766391
+      kirby_sheet_114: -141057892
+      kirby_sheet_115: -1211205027
+      kirby_sheet_116: 1828124802
+      kirby_sheet_117: -328125223
+      kirby_sheet_118: -414753924
+      kirby_sheet_119: 2034284335
+      kirby_sheet_12: 675911419
+      kirby_sheet_120: 257598494
+      kirby_sheet_121: -1356109
+      kirby_sheet_122: -327422964
+      kirby_sheet_123: 1052153342
+      kirby_sheet_124: 1066961697
+      kirby_sheet_125: 112278044
+      kirby_sheet_126: 1677346724
+      kirby_sheet_127: -681560335
+      kirby_sheet_128: 1885732066
+      kirby_sheet_129: 149937644
+      kirby_sheet_13: -1828395828
+      kirby_sheet_130: -59364531
+      kirby_sheet_131: 1067978903
+      kirby_sheet_132: -281099512
+      kirby_sheet_133: -545995649
+      kirby_sheet_134: -1161175663
+      kirby_sheet_135: -38985657
+      kirby_sheet_136: 33164291
+      kirby_sheet_137: 2046508001
+      kirby_sheet_138: 654079355
+      kirby_sheet_139: -873455862
+      kirby_sheet_14: -1769485308
+      kirby_sheet_140: 1577343612
+      kirby_sheet_141: -1093268885
+      kirby_sheet_142: -1650743303
+      kirby_sheet_143: -1532996765
+      kirby_sheet_144: 1522679687
+      kirby_sheet_145: 388642161
+      kirby_sheet_146: 1329082021
+      kirby_sheet_147: 1359616748
+      kirby_sheet_148: 24230168
+      kirby_sheet_149: -177838863
+      kirby_sheet_15: 1259308230
+      kirby_sheet_150: -1889583878
+      kirby_sheet_151: 2109533320
+      kirby_sheet_152: -2013621201
+      kirby_sheet_153: -1251256314
+      kirby_sheet_154: 473832272
+      kirby_sheet_155: 437842236
+      kirby_sheet_156: -1594858103
+      kirby_sheet_157: 1158005146
+      kirby_sheet_158: 428716224
+      kirby_sheet_159: -1066394474
+      kirby_sheet_16: 1577966887
+      kirby_sheet_160: 968805478
+      kirby_sheet_161: -1613630924
+      kirby_sheet_162: -1003369313
+      kirby_sheet_163: 577692737
+      kirby_sheet_164: -84449823
+      kirby_sheet_165: 270611811
+      kirby_sheet_166: 468472512
+      kirby_sheet_167: -1690924552
+      kirby_sheet_168: -1260608225
+      kirby_sheet_169: -1360538971
+      kirby_sheet_17: 1872556374
+      kirby_sheet_170: -476160324
+      kirby_sheet_171: -676174785
+      kirby_sheet_172: -1044520546
+      kirby_sheet_173: -1200970451
+      kirby_sheet_174: -339418620
+      kirby_sheet_175: -1587812640
+      kirby_sheet_176: -1232049755
+      kirby_sheet_177: 1888502801
+      kirby_sheet_178: -1160404656
+      kirby_sheet_179: 879126923
+      kirby_sheet_18: -280462389
+      kirby_sheet_180: -1037162299
+      kirby_sheet_181: -1344270816
+      kirby_sheet_182: -344359906
+      kirby_sheet_183: -2056646924
+      kirby_sheet_184: 177988388
+      kirby_sheet_185: -484483486
+      kirby_sheet_186: 1516800816
+      kirby_sheet_187: 469277463
+      kirby_sheet_188: -2027812828
+      kirby_sheet_189: -1777393726
+      kirby_sheet_19: -93170866
+      kirby_sheet_190: 591253250
+      kirby_sheet_191: -493933586
+      kirby_sheet_192: -1820919902
+      kirby_sheet_193: -1346053637
+      kirby_sheet_194: 152028181
+      kirby_sheet_195: 1923445223
+      kirby_sheet_196: 1629885550
+      kirby_sheet_197: -1610074577
+      kirby_sheet_198: 952767453
+      kirby_sheet_199: -716508546
+      kirby_sheet_2: -1339932925
+      kirby_sheet_20: 328703175
+      kirby_sheet_200: -1765178753
+      kirby_sheet_201: 1773030627
+      kirby_sheet_202: -72597936
+      kirby_sheet_203: 1475814133
+      kirby_sheet_204: -266941497
+      kirby_sheet_205: 1159473120
+      kirby_sheet_206: -1354167413
+      kirby_sheet_207: 1087036046
+      kirby_sheet_208: -99992087
+      kirby_sheet_209: 806097785
+      kirby_sheet_21: -734146595
+      kirby_sheet_210: 1607989518
+      kirby_sheet_211: 576523335
+      kirby_sheet_212: 12299446
+      kirby_sheet_22: -552344204
+      kirby_sheet_23: 574615436
+      kirby_sheet_24: 784934596
+      kirby_sheet_25: 1181669071
+      kirby_sheet_26: 1157733644
+      kirby_sheet_27: 1624699556
+      kirby_sheet_28: -424593215
+      kirby_sheet_29: -245276791
+      kirby_sheet_3: -1220232909
+      kirby_sheet_30: -1561222541
+      kirby_sheet_31: 1248263131
+      kirby_sheet_32: -1425292358
+      kirby_sheet_33: -1554574396
+      kirby_sheet_34: -1350506061
+      kirby_sheet_35: -1231571550
+      kirby_sheet_36: 875070186
+      kirby_sheet_37: -831644379
+      kirby_sheet_38: 1607764864
+      kirby_sheet_39: -1857104811
+      kirby_sheet_4: -215110703
+      kirby_sheet_40: -1656353381
+      kirby_sheet_41: -1364588960
+      kirby_sheet_42: -319387745
+      kirby_sheet_43: 745061051
+      kirby_sheet_44: -760906897
+      kirby_sheet_45: 9097989
+      kirby_sheet_46: -1302824713
+      kirby_sheet_47: -1709535089
+      kirby_sheet_48: -1558895804
+      kirby_sheet_49: 1607665392
+      kirby_sheet_5: 921448992
+      kirby_sheet_50: 395376732
+      kirby_sheet_51: 1239467214
+      kirby_sheet_52: 1378514943
+      kirby_sheet_53: -176269022
+      kirby_sheet_54: -192892205
+      kirby_sheet_55: -535737423
+      kirby_sheet_56: -436365418
+      kirby_sheet_57: 203883561
+      kirby_sheet_58: -409702057
+      kirby_sheet_59: 522728459
+      kirby_sheet_6: 2001380084
+      kirby_sheet_60: 1632498792
+      kirby_sheet_61: -1611875392
+      kirby_sheet_62: 2024007953
+      kirby_sheet_63: -1149544469
+      kirby_sheet_64: -61657994
+      kirby_sheet_65: 917779666
+      kirby_sheet_66: 1628817137
+      kirby_sheet_67: 2105680501
+      kirby_sheet_68: 526408150
+      kirby_sheet_69: -1977515260
+      kirby_sheet_7: 188108819
+      kirby_sheet_70: 1334300280
+      kirby_sheet_71: -1860189273
+      kirby_sheet_72: 1890321562
+      kirby_sheet_73: -1909816167
+      kirby_sheet_74: -548869408
+      kirby_sheet_75: 848791578
+      kirby_sheet_76: 744314632
+      kirby_sheet_77: 716755922
+      kirby_sheet_78: -39101894
+      kirby_sheet_79: 853771939
+      kirby_sheet_8: 250301285
+      kirby_sheet_80: 1623931564
+      kirby_sheet_81: 1214282895
+      kirby_sheet_82: -17243863
+      kirby_sheet_83: -844041147
+      kirby_sheet_84: -374833056
+      kirby_sheet_85: -716243017
+      kirby_sheet_86: 1827241026
+      kirby_sheet_87: 138880733
+      kirby_sheet_88: 1425855825
+      kirby_sheet_89: 2011189352
+      kirby_sheet_9: 414553334
+      kirby_sheet_90: 891350470
+      kirby_sheet_91: 1321033691
+      kirby_sheet_92: 946307833
+      kirby_sheet_93: -773253287
+      kirby_sheet_94: 1136952873
+      kirby_sheet_95: 131630604
+      kirby_sheet_96: -5057130
+      kirby_sheet_97: -1045472414
+      kirby_sheet_98: 1649218755
+      kirby_sheet_99: 851935144
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

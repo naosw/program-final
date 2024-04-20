@@ -62,7 +62,6 @@ public class TouchingDirections : MonoBehaviour
             animator.SetBool(AnimationStrings.isOnCeiling, value);
         }
     }
-
     private void Awake()
     {
         touchingCol = GetComponent<BoxCollider2D>();

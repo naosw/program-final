@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections))]
 public class PlayerMovement : MonoBehaviour
 {
-    public float walkSpeed = 5f;
+    public float walkSpeed = 6f;
     private float jumpImpulse = 5f;
     Vector2 moveInput;
     TouchingDirections touchingDirections;
@@ -68,6 +68,15 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         touchingDirections = GetComponent<TouchingDirections>();
+    }
+
+    private void Update()
+    {
+        transform.eulerAngles = new Vector3(0, 0, 0);
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            animator.SetTrigger(AnimationStrings.spell);
+        }
     }
 
     private void FixedUpdate()
