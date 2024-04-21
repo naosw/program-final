@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class SwitchGravity : MonoBehaviour
 {
+    [SerializeField] public int gravity = 1;
     private Rigidbody2D rb;
     Animator animator;
 
@@ -11,6 +12,8 @@ public class SwitchGravity : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        rb.gravityScale *= gravity;
+        if (gravity == -1) transform.Rotate(180, 0, 0);
     }
 
     // Update is called once per frame

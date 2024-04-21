@@ -75,6 +75,7 @@ public class PlayerMovement : MonoBehaviour
         transform.eulerAngles = new Vector3(0, 0, 0);
         if (Input.GetKeyDown(KeyCode.Q))
         {
+            rb.velocity = new Vector2(0, rb.velocity.y);
             animator.SetTrigger(AnimationStrings.spell);
         }
     }
