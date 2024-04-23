@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class TouchingDirections : MonoBehaviour
 {
+    // as part of the movement tutorial, script to determine if the player is touching the ground, walls, or the ceiling
+
+
     public ContactFilter2D castFilter;
     public float groundDistance = 0.05f;
     public float wallDistance = 0.2f;

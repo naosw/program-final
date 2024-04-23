@@ -26,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
         } 
     }
 
+    // determine if the player is moving
     [SerializeField]
     private bool _isMoving = false;
     public bool IsMoving
@@ -41,8 +42,8 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    // change sprite based on direction the player is facing
     public bool _isFacingRight = true;
-
     public bool IsFacingRight
     {
         get
@@ -73,6 +74,8 @@ public class PlayerMovement : MonoBehaviour
     private void Update()
     {
         transform.eulerAngles = new Vector3(0, 0, 0);
+
+        // need to check for switching gravity input in the player script, rather than the gravity script (because that script only applies to objects, not the player)
         if (Input.GetKeyDown(KeyCode.Q))
         {
             rb.velocity = new Vector2(0, rb.velocity.y);
@@ -80,6 +83,8 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+
+    // function to check for movement and and affect player accordingly
     private void FixedUpdate()
     {
         rb.velocity = new Vector2(moveInput.x * walkSpeed, rb.velocity.y);
@@ -95,6 +100,7 @@ public class PlayerMovement : MonoBehaviour
         SetFacingDirection(moveInput);
     }
 
+    // determine direction for purpose of flipping player sprite to face that direction
     private void SetFacingDirection(Vector2 moveInput)
     {
         if(moveInput.x > 0 && !IsFacingRight)
@@ -109,9 +115,9 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    // jump and play animation upon input
     public void OnJump(InputAction.CallbackContext context)
     {
-        // TODO check if alive as well
         if(context.started && touchingDirections.IsGrounded)
         {
             animator.SetTrigger(AnimationStrings.jump);

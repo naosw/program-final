@@ -8,11 +8,14 @@ public class SwitchGravity : MonoBehaviour
     private Rigidbody2D rb;
     Animator animator;
 
-    // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+
+        // used for purpose of manually setting object gravity before play
         rb.gravityScale *= gravity;
+
+        // used for objects that have gravity reversed from the start
         if (gravity == -1) transform.Rotate(180, 0, 0);
     }
 
@@ -21,6 +24,7 @@ public class SwitchGravity : MonoBehaviour
     {
         if(Input.GetKeyDown(KeyCode.Q))
         {
+            // reverse gravity for any object with script, flip their sprite
             rb.gravityScale *= -1;
             transform.Rotate(180, 0, 0);
         }
