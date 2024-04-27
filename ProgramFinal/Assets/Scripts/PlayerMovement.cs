@@ -7,6 +7,11 @@ using UnityEngine.InputSystem;
 [RequireComponent(typeof(Rigidbody2D), typeof(TouchingDirections))]
 public class PlayerMovement : MonoBehaviour
 {
+    // initialize variables for sound effects
+    [SerializeField] private AudioClip spellClip;
+    [SerializeField] private AudioClip jumpClip;
+    private AudioSource audioSource;
+
     public float walkSpeed = 6f;
     private float jumpImpulse = 5f;
     Vector2 moveInput;
@@ -69,6 +74,7 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         touchingDirections = GetComponent<TouchingDirections>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -80,6 +86,11 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.velocity = new Vector2(0, rb.velocity.y);
             animator.SetTrigger(AnimationStrings.spell);
+
+            // play sound effect for switching gravity
+            audioSource.clip = spellClip;
+            audioSource.pitch = 1.5f;
+            audioSource.Play();
         }
     }
 
@@ -122,6 +133,9 @@ public class PlayerMovement : MonoBehaviour
         {
             animator.SetTrigger(AnimationStrings.jump);
             rb.velocity = new Vector2(rb.velocity.x, jumpImpulse);
+            audioSource.clip = jumpClip;
+            audioSource.pitch = 1f;
+            audioSource.Play();
         }
     }
 }
