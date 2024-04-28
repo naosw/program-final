@@ -6,7 +6,6 @@ public class SwitchGravity : MonoBehaviour
 {
     [SerializeField] public int gravity = 1;
     private Rigidbody2D rb;
-    Animator animator;
 
     void Start()
     {

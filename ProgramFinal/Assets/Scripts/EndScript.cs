@@ -8,6 +8,7 @@ public class EndScript : MonoBehaviour
     // initialize variables for sound effects
     [SerializeField] private AudioClip endClip;
     private AudioSource audioSource;
+    [SerializeField] private AudioSource backgroundAudioSource;
 
     public GameObject endMessage;
     public GameObject player;
@@ -22,6 +23,9 @@ public class EndScript : MonoBehaviour
     {
         endMessage.SetActive(true);
         Destroy(player);
+
+        // stop the background track from playing
+        backgroundAudioSource.Stop();
 
         // play sound effect for finishing the game
         audioSource.clip = endClip;
